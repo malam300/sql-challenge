@@ -1,0 +1,1 @@
+When inputing the CSV file for "Employees" I had to manually change the date format so PostGresSQL would accept it (yyyy,mm,dd), only then was I able to input all other CSV files ("Dept_emp", "Dept_Manager" and "Salaries").
